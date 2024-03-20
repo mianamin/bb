@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Brother Chappal Maker</title>
   <style>
-    .email{
+  .email{
         color: blue;
         text-decoration: none;
 
@@ -759,9 +759,7 @@ text-align: center;
 
 
      <br><br><br><hr><hr>
-
-
-    <div id="order">
+     <div id="order">
     <h1 class="order">Order</h1>
     <div class="contact" >
     <div class="whatsapp" align="center">
